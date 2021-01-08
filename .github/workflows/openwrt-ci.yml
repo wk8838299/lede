@@ -1,6 +1,6 @@
 # 
 # <https://github.com/KFERMercer/OpenWrt-CI>
-# sed -i 's/#src-git helloworld/src-git helloworld/g' ./feeds.conf.default
+#
 # Copyright (C) 2019 P3TERX
 #
 # Copyright (C) 2020 KFERMercer
